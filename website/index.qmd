@@ -9,3 +9,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{=html}
 <iframe width="780" height="500" src="../slides/slides.html" title="Presentation Test"></iframe>
 ```
+
+```{=html}
+<iframe width="780" height="500" src="static/slides.html" title="Presentation Test"></iframe>
+```

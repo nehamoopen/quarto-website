@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "static/slides.html#getting-up",
+    "href": "static/slides.html#getting-up",
+    "title": "Test",
+    "section": "Getting up",
+    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "static/slides.html#going-to-sleep",
+    "href": "static/slides.html#going-to-sleep",
+    "title": "Test",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
   }
 ]
