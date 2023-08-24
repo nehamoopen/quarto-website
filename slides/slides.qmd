@@ -1,0 +1,14 @@
+---
+title: "Test"
+format: revealjs
+---
+
+## Getting up {background-color="aquamarine"}
+
+- Turn off alarm
+- Get out of bed
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
